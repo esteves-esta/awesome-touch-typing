@@ -6,16 +6,16 @@
 
 ## Table of Contents
 
-- Learning
-  - Web
+- [Learning](#learning) 
+  - Online
   - Software
-- Practice
+- [Practice](#practice)
   - Games
   - Typing Test
   - Typing Code
-- Inspired by
-- Contribute
-- License
+- [Inspired by](#inspired-by)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 
@@ -181,8 +181,20 @@ Practice with: Code in 16 Programming Languafes.
 
 ## Inspired by
 
+Inspire by the **Awesome List** here on github and by the article [Teach yourself Touch Typing with Free Tools](https://www.labnol.org/internet/teach-yourself-touch-typing-with-free-tools/28849/) by Amit Agarwal. 
 
+## Contribute
 
+Contributions are most welcome! Please read and adhere to the [contribution guidelines](contributing.md) first.
+
+**[⬆ back to top]()**
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, esteves-esta has waived all copyright and
+related or neighboring rights to this work.
 
 
 
