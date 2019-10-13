@@ -1,10 +1,6 @@
-# Awesome Touch Typing 
+# Awesome Touch Typing (on progress)
 
 > An awesome & curated list of the best applications for learning and practicing touch typing.
-
-?Comment on why something is awesome
-
-Apart from suggesting a particular item on your list, you should also inform your readers why it's on the list and how they will benefit from it.
 
 ## Contents
 
@@ -23,12 +19,10 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 ## Learning
 
-About this section. Optional. Keep this short and focus on the list.
-
 ### Online
 
 **[typing.com](https://www.typing.com/) [ FREE ]**
-Great set and **number?** of lessons divided in 3 types: *Beginner, Intermediate and Advanced* with videos introducing tips or lesson about touch typing. Practice with **'you-choose?'** stories and also learn about the basics of the following: Tech, Carrer Prep, and also Coding (HTML/CSS).
+Great set and number of lessons divided in 3 types: *Beginner, Intermediate and Advanced* with videos introducing tips or lessons about touch typing on each step of the course. Practice with interactive stories and also learn about the basics of the following: Tech, Carrer Prep, and Coding (HTML/CSS).
 
 Languages available: ENG (US/UK) | ESP.
 Keyboard Settings: Show/Hide Keyboard | Show/Hide Hands | Keyboard Layout Option.
@@ -51,16 +45,14 @@ Contains: **Lessons | Practice | Speed Test | Statistics | Block on errors | Spe
 A simple website that contains 15 lessons each with 10 steps focusing in different sets of keys.
 
 Languages available: Multiple languages.
-Keyboard Settings: Keyboard and Hands (can't disable) | Keyboard Layout Option.
+Keyboard Settings: Keyboard Layout Option.
 
-Contains: **| Lessons | Practice | Speed Test | Games | Statistics? |**.
+Contains: **| Lessons | Practice | Speed Test | Games | Statistics |**.
 
 ---
 
 **[Keybr](https://www.keybr.com/) [ FREE ]**
-A website that generates typings lessons matching your skills and putting emphasis on letter you have difficulty. It show the key that is being used in lesson, and has good settings.
-
-Keyboard Settings: Keyboard (can't disable).
+A website that generates typings lessons matching your skills and putting emphasis on letter you have difficulty. It show the key that is being used in the lesson, and has good settings.
 
 Contains: **Lessons | Statistics | Dark Mode | Font Size | 3 Layouts | Full Screen Mode | Multiplayer race**.
 
@@ -68,21 +60,12 @@ Contains: **Lessons | Statistics | Dark Mode | Font Size | 3 Layouts | Full Scre
 
 ### Software 
 
-**[amphetype](https://code.google.com/archive/p/amphetype/) [ FREE | ARCHIVED ]**
-You can generate text fragments to type from Project Gutenberg or any other plain text source to practice typing. Advanced lesson generation.
-
-Platforms supported: Windows
-
-Contains: **Lessons | Practice | Statistics**.
-
----
-
 **[TIPP 10](https://www.tipp10.com/) [ FREE ]**
 TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in your browser or you can download the software version for Windows, Mac OS and Linux. TIPP10 features a clear user interface and various settings and custom lessons.
 
 Platforms supported: **Windows | Mac OS X | Linux**
 
-Contains: **Lessons | Duration of Lesson | Keyboard Assistance | Caracter Limit | Typing Error Handling | Statistics | Error rate by finger | Keyboard Layout | Font Size and Color | Audio Outpout | Language ?**.
+Contains: **Lessons | Duration of Lesson | Keyboard Assistance | Caracter Limit | Typing Error Handling | Statistics | Error rate by finger | Keyboard Layout | Font Size and Color | Audio Outpout**.
 
 ---
 
@@ -119,7 +102,7 @@ Platforms supported: **Windows | Mac | Linux**.
 
 ---
 
-**[TypeTime](https://loanr.github.io/typetime/about) [ FREE ]**
+**[TypeTime](https://loanr.github.io/typetime) [ FREE ]**
 A very fun touch typing game where you need to type the displayed word in a allocated time, there are levels and each level time is reduced and words are more difficult and unfrequent.
 
 Practice with: **Random Words**.
@@ -147,18 +130,6 @@ Settings: **Custom test ( duration / wordlist )**.
 
 ---
 
-**[How To Type](https://www.how-to-type.com/) [ FREE ]**
-Simple lessons with text explanation and practice below it without any statistics or settings. Good site for just practice.
-
-Languages available: ENG/DEU.
-
-Practice with: **Quotes | (There is a code one but it seems to not work)**.
-
-Contains: **One Game**.
-
-Settings: **Change Topic (Fiction or Nonfiction) | Subject/ Genre | Lenght**.
-
-
 ### Typing Code
 
 **[typing.io](https://typing.io/) [ FREEMIUM]**
@@ -167,17 +138,6 @@ In the free version it has lessons with open source code that allow you to pract
 Practice with: **Code in 16 Programming Languages**.
 
 ---
-
-**[Speed Coder](http://www.speedcoder.net/) [ FREE ]**
-You can practice in 10 programming languages or use a custom code.
-
-Practice with: **10 Programming Languages | Custom code**.
-
-Settings: **Keyboard Layout (Querty/ Dvorak/ Colemak) | Show/Hide Keyboard | Forcer Correction (Login Required) | Practice for rows and specific keys (Tutor)**
-
-
----
-
 
 ## Inspired by
 
