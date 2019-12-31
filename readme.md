@@ -100,7 +100,7 @@ Practice with: **Music Lyrics**.
 ---
 
 **[Epistory - Typing Chronicles](http://www.epistorygame.com/) [ PAID ]**
-This is a 3D adventure game where you are the muse of a writer helping they tell a story while using the keyboard to move and type words to combat enemys. 
+Great game where it slowly make battles with mosters harder with more complex words all at the same type, very good for practicing if you already know touch typing and very entertaning game, good art and nice choose of words and difficulty.
 
 Platforms supported: **Windows | Mac | Linux**.
 
