@@ -134,6 +134,15 @@ Settings: **Custom test ( duration / wordlist )**.
 
 ---
 
+**[TypeFast.io](https://typefast.io/) [ FREE ]**
+Simple practice with minimal layout. Good ability to make the test custom with lots of settings that can make your test more personalized to what you want to focus and get better. 
+
+Practice with: **Sentences | Words**.
+
+Settings: **Just lowercase | Remove Punctuation | Multiple languages | Theme ( Dark | Light ) | Text size | Scrolling**.
+
+---
+
 ### Typing Code
 
 **[typing.io](https://typing.io/) [ FREEMIUM]**
