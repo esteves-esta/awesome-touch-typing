@@ -135,6 +135,30 @@ Settings: **Custom test ( duration / wordlist )**.
 ---
 
 **[TypeFast.io](https://typefast.io/) [ FREE ]**
+Simple practice with minimal layout in only dark mode and ability to practice in the korean keyboard with hangul. 
+
+Practice with: **Sentences | Paragraph**.
+
+Contains: **English | Korean**.
+
+Settings: **Duration of Test | Pangram **.
+
+---
+
+
+**[typing.works](https://typing.works/) [ FREE ]**
+Simple practice with minimal layout. User can customize a lot of the visual part of the text. 
+
+Practice with: **Sentences | Words**.
+
+Contains: **English | Korean**.
+
+Settings: **Just lowercase | | Theme ( Dark | Light ) | Text size | Text Weight | Only one font | Scrolling**.
+
+---
+
+
+**[new typing.works](https://new.typing.works/) [ FREE ]**
 Simple practice with minimal layout. Good ability to make the test custom with lots of settings that can make your test more personalized to what you want to focus and get better. 
 
 Practice with: **Sentences | Words**.
