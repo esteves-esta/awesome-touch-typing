@@ -167,6 +167,40 @@ Settings: **Just lowercase | Remove Punctuation | Multiple languages | Theme ( D
 
 ---
 
+**[TypeLit.io](https://www.typelit.io/) [ FREE ]**
+Test your typing online by practicing on your favorite literature. Choose a book below to get started, or subscribe and import your own!
+
+Practice with: **Sentences**.
+
+Contains: **Various**.
+
+Settings: **Theme | Fonts | Virtual Keyboard | Ignore Capitalization | Skip Punctuation | Cursor Styles | Show Mistypes | Auto Scroll**.
+
+---
+
+**[Ngram Type](https://ranelpadon.github.io/ngram-type/) [ FREE ]**
+Ngram refers to sequence/grouping of characters, and they're usually ranked to describe the common ones. Historically, ngrams are used in Crytography to decrypt messages. Nowadays, they have many applications, for classifying spam messages, as auto-completion or spell-checking tool, etc. Technically, Ngrams are words also, and vice versa. The better you're able to type these sequences of characters, the faster you'll be able to type in general.
+
+Practice with: **Ngrams Types**.
+
+Contains: **English**.
+
+Settings: **Generator**.
+
+---
+
+
+**[Monkeytype](https://monkeytype.com/about) [ FREE ]**
+Monkeytype is a minimalistic and customizable typing test. It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate the experience of natural keyboard typing during a typing test, by unobtrusively presenting the text prompts and displaying typed characters in-place, providing straightforward, real-time feedback on typos, speed, and accuracy
+
+Practice with: **Ngrams Types**.
+
+Contains: **Various**.
+
+Settings: **themes | font settings | Test difficulty | quick restart | blid mode | min speed | min accuracy | min burst | sounds | cursor style**.
+
+---
+
 ### Typing Code
 
 **[typing.io](https://typing.io/) [ FREEMIUM]**
