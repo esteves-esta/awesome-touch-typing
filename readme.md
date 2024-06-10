@@ -25,6 +25,16 @@
 
 ### Online
 
+**[Neo Train](https://neo-train.lamdera.qpp) [ FREE ]**
+Online touch typing trainer for all neo layouts. Highly customizable and no registration required. Hand written and generated lectures.
+
+Layouts: all neo layout variants.
+Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option.
+
+Contains: **Lessons | Practice | Speed Test | Statistics | Keyboard Settings | Theme change | Coding Lessons | Greek Letters**.
+
+---
+
 **[typing.com](https://www.typing.com/) [ FREE ]**
 Great set and number of lessons divided in 3 types: *Beginner, Intermediate and Advanced* with videos introducing tips or lessons about touch typing on each step of the course. Practice with interactive stories and also learn about the basics of the following: Tech, Carrer Prep, and Coding (HTML/CSS).
 
