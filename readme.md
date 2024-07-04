@@ -34,6 +34,18 @@ Keyboard Settings: Show/Hide Keyboard | Show/Hide Hands | Keyboard Layout Option
 Contains: **Lessons | Practice | Speed Test | Games | Statistics | Keyboard Settings | Theme change | Badges? | Problem Key Custom Lessons**.
 
 ---
+**[Ratatype](https://www.ratatype.com/) [ FREEMIUM ]**
+Lessons for begginers and lessong to get rid of spelling mistakes.
+On mistakes it stop but you don't need to use backspace.
+Functionality to create group and compete with friends.
+Game mode is simple, just a packman character eating the letters. Limited acess per day.
+
+Languages available: ENG (US/UK) | ESP | Portuguese (BR) | French | Russian | Ukrainian |Italian | German | Polish | Turkish | Dutch.
+Keyboard Settings: No customizations.
+
+Contains: **Lessons | | Games | Speed Statistic |**.
+
+---
 
 **[Typing Club](https://www.typingclub.com/) [ FREEMIUM ]**
 Great lessons with 20 levels with 447 lessons with fun and interesing facts used in the practice of the lessons. There are games but some are just for the paid version. The *awesomeness* is also in the acessibility with the: voice over; subtitles on videos; one hand typing lessons; and the playback of your perfomance on the lesson.
