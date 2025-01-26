@@ -103,12 +103,12 @@ Contains: **Lessons | Duration of Lesson | Keyboard Assistance | Caracter Limit 
 
 ### Both (Online & Software)
 
+
+**[Typing Land](https://typingland.higopage.com/index.html) [ PAID ]**
 <div style="display: flex; flex-direction: row">
   <img src="https://github.com/user-attachments/assets/ce3df242-6cc8-43a2-ab3d-0ac9c6a0c701" height="150" />
   <img src="https://github.com/user-attachments/assets/6d4da9f2-3dd1-4deb-b00e-c08cae8de7f0" height="150" />
 </div>
-
-**[Typing Land](https://typingland.higopage.com/index.html) [ PAID ]**
 TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in your browser or you can download the software version for Windows, Mac OS and Linux. TIPP10 features a clear user interface and various settings and custom lessons.
 
 Available in: **App Store | Google Play | Microsoft | STEAM**
@@ -155,6 +155,38 @@ A very fun touch typing game where you need to type the displayed word in a allo
 
 Practice with: **Random Words**.
 Settings: **Choose difficulty | Modifiers | (Fun) Sound Cues**
+
+---
+
+**[Cryptmaster](https://www.akuparagames.com/game/cryptmaster/) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/81e0a0c9-d927-4b08-be52-0e796b70f060" height="150" />
+  <img src="https://github.com/user-attachments/assets/e3154e19-6d09-4cc3-8320-1777f0d6d942" height="150" />
+</div>
+
+The dungeon-crawling adventure is all about finding the right word for a whole bunch of different wacky scenarios. Typing is how you use that power. [by Polygon Review](https://www.polygon.com/24203891/cryptmaster-impressions-word-games)
+
+Genre: dungeon-crawling word puzzle  
+Practice with: **Random Words | Word Puzzles | Other gameplay mechanis**.  
+Available in platforms: ** STEAM | XBOX | Playstation **  
+
+---
+
+**[Dead Letter Dept](https://www.beliefengine.com/deadletterdept/) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/250ed2d2-4aac-4f85-ac2a-e455d8b0ab18" height="150" />
+  <img src="https://github.com/user-attachments/assets/11fb2460-8f87-43a4-b105-79825a63c976" height="150" />
+</div>
+
+Working at a data entry job in the big city, you type up and transcribe the lost mail and letters that have nowhere else to go. But as the days carry on oddities in the mail start to emerge, and cracks begin to appear. 
+
+[DEMO](https://beliefengine.itch.io/dead-letter-dept)
+
+Genre: Typing | Horror
+Practice with: **Sentences**.
+Available in platforms: ** STEAM **
+
+----
 
 ### Typing Test
 
