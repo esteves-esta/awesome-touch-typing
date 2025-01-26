@@ -25,8 +25,8 @@
 
 ### Online
 
-**[Neo Train](https://neo-train.lamdera.qpp) [ FREE ]**
-Online touch typing trainer for all neo layouts. Highly customizable and no registration required. Hand written and generated lectures.
+**[Neo Train](https://neo-train.lamdera.app) [ FREE ]**
+App in german only. Online touch typing trainer for all neo layouts (Neo is a layout for the german language). Highly customizable and no registration required. Hand written and generated lectures.
 
 Layouts: all neo layout variants.
 Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option.
