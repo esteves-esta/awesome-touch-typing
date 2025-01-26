@@ -93,6 +93,23 @@ Platforms supported: **Windows | Mac OS X | Linux**
 
 Contains: **Lessons | Duration of Lesson | Keyboard Assistance | Caracter Limit | Typing Error Handling | Statistics | Error rate by finger | Keyboard Layout | Font Size and Color | Audio Outpout**.
 
+
+----
+
+### Both (Online & Software)
+
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/ce3df242-6cc8-43a2-ab3d-0ac9c6a0c701" height="150" />
+  <img src="https://github.com/user-attachments/assets/6d4da9f2-3dd1-4deb-b00e-c08cae8de7f0" height="150" />
+</div>
+
+**[Typing Land](https://typingland.higopage.com/index.html) [ PAID ]**
+TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in your browser or you can download the software version for Windows, Mac OS and Linux. TIPP10 features a clear user interface and various settings and custom lessons.
+
+Available in: **App Store | Google Play | Microsoft | STEAM**
+
+Contains: **Finger Placement | Lessons | Offline | No ADS | 40 Mini games | Badges**.
+
 ---
 
 ## Practicing
