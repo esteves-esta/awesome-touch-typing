@@ -223,6 +223,19 @@ Settings: **themes | font settings | Test difficulty | quick restart | blid mode
 
 ---
 
+
+**[TypingBeast](https://typingbeast.com/) [ FREE ]**
+TypingBeast is a customizable and modern typing test. You can practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards. It also includes user account to save progress, track history and compete in leaderboards. Zen typing mode is available in TypingBeast where you can practice typing without any interruptions and within a peaceful enviroment.
+
+Practice with: **Random Words | Sentences**.
+
+Contains: **Various**.
+
+Settings: **themes | quick restart | zen mode | min speed | min accuracy | sounds | Virtual Keyboard | Ignore Capitalization | Skip Punctuation | Multiple Languages**.
+
+---
+
+
 ### Typing Code
 
 **[typing.io](https://typing.io/) [ FREEMIUM]**
