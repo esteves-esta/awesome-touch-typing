@@ -186,7 +186,66 @@ Genre: Typing | Horror
 Practice with: **Sentences**.
 Available in platforms: ** STEAM **
 
+---
+
+**[The Textorcist: The Story of Ray Bibbia](https://www.headupgames.com/game/the-textorcist-the-story-of-ray-bibbia) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/81f727ec-fb86-4b48-a80f-d523adff721a" height="150" />
+</div>
+Dodge bullets while typing exorcisms at the very same time: Get ready for an electrifying mix between bullet hell and typing game! Turn on both sides of your brain and jump into the adventure of private exorcist Ray Bibbia! 
+
+Genre: Typing | Bullet Hell
+Settings: **Difficulty**
+Practice with: **Sentences**.
+Available in platforms: **STEAM | GOG | APP STORE**
+
 ----
+
+**[HyperTyper 2000](https://store.steampowered.com/app/3125430/HyperTyper_2000/) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/6b4cf557-9c1a-41a6-af0f-ea91dc2fa8e2" height="150" />
+</div>
+
+ Type, dodge, parry, and survive in HyperTyper 2000! A hybrid typing/bullet hell game where both halves of the action are nonstop! Test your typing skills with one hand and dodge with the other. 
+
+Genre: Typing | Bullet Hell
+Practice with: **Words**.
+Available in platforms: **STEAM**
+
+----
+
+**[Glyphica: Typing Survival](https://www.squeakywheel.ph/glyphica-presskit) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/b8b9dd49-9e7f-4bc6-a4e2-52185aca8fee" height="150" />
+  <img src="https://github.com/user-attachments/assets/041a43b5-2d66-48ce-ab03-8acf9567e014" height="150" />
+</div>
+The roguelite horde survival game that makes typing great again! Immerse yourself in the minimalist UI 
+
+Genre: Typing | Roguelike
+Settings: **Dark mode | Volume  **
+Languages available: ENG (US/UK) | French | Portuguese (BR) | German | Polish | Japanese | Spanish | Indonesian
+Practice with: **Words**.
+Available in platforms: ** STEAM **
+
+----
+
+**[The Chef's Shift](https://store.steampowered.com/app/2390230/The_Chefs_Shift/) [ PAID ]**
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/user-attachments/assets/4b57c14b-2db5-4fc5-9014-e83ef4b0f8fb" height="150" />
+  <img src="https://github.com/user-attachments/assets/fbca8de4-8a69-423b-bfb3-4b31056704d8" height="150" />
+</div>
+
+The Chef’s Shift is a fast-paced typing game in a restaurant setting, where you’ll both cook & serve food to hungry customers, all done by TYPING. 
+
+[FREE DEMO](https://alijaya.itch.io/the-chefs-shift)
+
+Genre: **Typing | Cooking**
+Practice with: **WORDS**.
+Settings: **Change difficulty | volume**
+Available in platforms: ** STEAM **
+
+----
+
 
 ### Typing Test
 
