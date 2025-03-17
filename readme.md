@@ -89,6 +89,14 @@ Contains: **Lessons | Statistics | Dark Mode | Font Size | 3 Layouts | Full Scre
 
 ---
 
+
+**[Typey Type](https://didoesdigital.com/typey-type/) [ FREE ][ STENOGRAPHY ]**
+Typey Type for Stenographers is a free typing app designed to help steno students practise and master stenography.
+
+Contains: **Lessons | Writer | Lessons | Games | Flash Cards **.
+
+---
+
 ### Software 
 
 **[TIPP 10](https://www.tipp10.com/) [ FREE ]**
