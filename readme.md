@@ -82,6 +82,16 @@ Contains: **| Lessons | Practice | Speed Test | Games | Statistics |**.
 
 ---
 
+**[Tapotons](https://tapotons.com/) [ FREEMIUM ]**
+A touch typing platform focused on learning to type faster and more accurately on keyboards. It includes progressive lessons, typing exercises, a typing speed test, and progress statistics.
+
+Languages available: French | English.
+Keyboard Settings: AZERTY | QWERTY.
+
+Contains: **Lessons | Practice | Speed Test | Statistics | Progress Tracking | Personalized Exercises**.
+
+---
+
 **[Keybr](https://www.keybr.com/) [ FREE ]**
 A website that generates typings lessons matching your skills and putting emphasis on letter you have difficulty. It show the key that is being used in the lesson, and has good settings.
 
