@@ -89,6 +89,16 @@ Contains: **Lessons | Statistics | Dark Mode | Font Size | 3 Layouts | Full Scre
 
 ---
 
+**[Keytopia](https://keytopia.org/) [ FREE ]**
+Free touch-typing platform with a full curriculum, adaptive practice, and school tools. Lessons include 3D finger-placement visualization; an adaptive engine targets weak keys. Advanced analytics cover keyboard heatmaps, bigram timing, finger-efficiency radar, consistency and rhythm scores, speed distribution, and full test replay. Compete in 2D and 3D multiplayer car races, tournaments, challenges, and leaderboards; earn badges, levels, and verifiable Bronze–Diamond certifications. Educators get classrooms, assignments, live progress, and certificates.
+
+Languages available: many (including multi-layout practice). Keyboard Settings: Show keyboard | Layout options | Themes.
+
+Contains: **Lessons | 3D Finger Placement | Adaptive Practice | Speed Test | Games | 2D/3D Races | Tournaments | Statistics (Heatmaps, Bigrams, Finger Efficiency) | Classrooms | Certifications | Badges | Friends | Challenges | Themes**.
+
+---
+
+
 
 **[Typey Type](https://didoesdigital.com/typey-type/) [ FREE ][ STENOGRAPHY ]**
 Typey Type for Stenographers is a free typing app designed to help steno students practise and master stenography.
