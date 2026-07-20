@@ -7,8 +7,10 @@
 ![gif of touch typing](https://github.com/esteves-esta/awesome-touch-typing/blob/master/touchtyping.gif)
 
 
-## Feel free to send PRs to add new items on the list. =D
-
+## Important:
+- I do check the links before adding but I don't keep checking so some links might be broken since they have been added so beware and proceed with caution.
+  - If I find a broken link or someone finds a broken link I will remove it from the list.
+- If you want to add your site or a site you find useful to the list just open a PR. 
 
 
 ## Contents
@@ -163,12 +165,6 @@ The game allows you to practice alone or to compete in a race with a set of diff
 Practice with: **Quotes**.
 
 Contains: **Multiplayer | Chat**. 
-
----
-
-**[Typing Karaoke](TypingKaraoke.com) [ FREE | For advance typists ]**
-Is a very fun flash game with 10 songs with different levels of difficulty, while the song plays you have to type the line before the singer change to the next.
-Practice with: **Music Lyrics**.
 
 ---
 
