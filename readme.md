@@ -97,6 +97,16 @@ Contains: **Lessons | Writer | Lessons | Games | Flash Cards **.
 
 ---
 
+**[Keytopia](https://keytopia.org/) [ FREE ]**
+A touch typing platform that pairs a staged lesson curriculum with gamified practice. Lessons run from home row through numbers, symbols and punctuation, and adaptive drills build exercises around the keys you miss most often. Results are broken down into WPM, raw WPM, accuracy and consistency over time. There is also an educator side with classrooms, assignments, progress reports and certificates.
+
+Languages available: 40 languages including ENG | ESP | FRA | DEU | POR | ITA | NLD | POL | TUR | RUS | UKR | JPN | KOR | HIN | ARA.
+Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option (25 layouts, including QWERTY, AZERTY, QWERTZ, Colemak, Colemak-DH, Dvorak, Engram, Halmak and JCUKEN).
+
+Contains: **Lessons | Practice | Speed Test | Games | Multiplayer race | Tournaments | Statistics | Certifications | Classrooms | Keyboard Settings | Theme change (40+) | Badges | Levels | Leaderboards**.
+
+---
+
 ### Software 
 
 **[TIPP 10](https://www.tipp10.com/) [ FREE ]**
