@@ -82,16 +82,6 @@ Contains: **| Lessons | Practice | Speed Test | Games | Statistics |**.
 
 ---
 
-**[Tapotons](https://tapotons.com/) [ FREEMIUM ]**
-A touch typing platform focused on learning to type faster and more accurately on keyboards. It includes progressive lessons, typing exercises, a typing speed test, and progress statistics.
-
-Languages available: French | English.
-Keyboard Settings: AZERTY | QWERTY.
-
-Contains: **Lessons | Practice | Speed Test | Statistics | Progress Tracking | Personalized Exercises**.
-
----
-
 **[Keybr](https://www.keybr.com/) [ FREE ]**
 A website that generates typings lessons matching your skills and putting emphasis on letter you have difficulty. It show the key that is being used in the lesson, and has good settings.
 
@@ -107,13 +97,24 @@ Contains: **Lessons | Writer | Lessons | Games | Flash Cards **.
 
 ---
 
+**[Tapotons](https://tapotons.com/) [ FREEMIUM ]**
+A touch typing platform focused on learning to type faster and more accurately on keyboards. It includes progressive lessons, typing exercises, a typing speed test, and progress statistics.
+
+Languages available: French | English.
+Keyboard Settings: AZERTY | QWERTY.
+
+Contains: **Lessons | Practice | Speed Test | Statistics | Progress Tracking | Personalized Exercises**.
+
+---
+
 **[Keytopia](https://keytopia.org/) [ FREE ]**
-Free touch-typing platform that pairs a full curriculum with competitive practice and school tools. Lessons include **3D finger-placement visualization** from home row through numbers and symbols; an **adaptive practice engine** builds drills around your weakest keys. A **personal AI coach** turns your results into specific insights. **Custom theme creator** plus 40+ themes. Advanced analytics go beyond WPM: keyboard heatmaps, per-key speed, bigram timing, finger-efficiency radar, consistency and rhythm scores, speed distribution, and full test replay. Compete in **2D and 3D multiplayer car races**, tournaments, challenges, and leaderboards; earn badges, levels, and verifiable Bronze–Diamond certifications. Educators get classrooms, assignments, live progress, grading, and certificates.
+Free touch-typing platform that pairs a full curriculum with competitive practice and school tools. Lessons include **3D finger-placement visualization** from home row through numbers and symbols; an **adaptive practice engine** builds drills around your weakest keys. A **personal AI coach** turns your results into specific insights. 
 
 Languages available: 40 languages including ENG | ESP | FRA | DEU | POR | ITA | NLD | POL | TUR | RUS | UKR | JPN | KOR | HIN | ARA.
 Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option (25+ layouts, including QWERTY, AZERTY, QWERTZ, Colemak, Colemak-DH, Dvorak, Engram, Halmak and JCUKEN).
 
-Contains: **Lessons | 3D Finger Placement | Adaptive Practice | AI Coach / Insights | Custom Theme Creator | Speed Test | Games | 2D/3D Races | Tournaments | Statistics (Heatmaps, Bigrams, Finger Efficiency, Consistency, Replay) | Certifications | Classrooms | Friends | Challenges | Badges | Levels | Leaderboards | Keyboard Settings | Theme change (40+)**.
+Contains: **Lessons | Finger Placement | Adaptive Practice | AI Coach | Theme & Custom Theme | Speed Test | Games | Tournaments | Statistics | Certifications | Keyboard Settings**.
+
 
 ---
 
@@ -335,7 +336,7 @@ Test your typing online by practicing on your favorite literature. Choose a book
 
 Practice with: **Sentences**.
 
-Contains: **Various**.
+Contains: **Multiple Languages**.
 
 Settings: **Theme | Fonts | Virtual Keyboard | Ignore Capitalization | Skip Punctuation | Cursor Styles | Show Mistypes | Auto Scroll**.
 
@@ -358,7 +359,7 @@ Monkeytype is a minimalistic and customizable typing test. It features many test
 
 Practice with: **Ngrams Types**.
 
-Contains: **Various**.
+Contains: **Multiple Languages**.
 
 Settings: **themes | font settings | Test difficulty | quick restart | blid mode | min speed | min accuracy | min burst | sounds | cursor style**.
 
@@ -370,9 +371,18 @@ TypingBeast is a customizable and modern typing test. You can practice touch typ
 
 Practice with: **Random Words | Sentences**.
 
-Contains: **Various**.
+Contains: **Multiple Languages**.
 
 Settings: **themes | quick restart | zen mode | min speed | min accuracy | sounds | Virtual Keyboard | Ignore Capitalization | Skip Punctuation | Multiple Languages**.
+
+
+---
+
+
+- [KeyboardTester](https://keyboardtester.click) - KeyboardTester is a typing speed test (WPM, accuracy, multiple durations). Companion tools on same site: keyboard tester, key repeat rate, NKRO check.
+
+- Settings: **Duration | Strict mode | Custom text or choose type of text (technical/numbers/code)**.
+
 
 ---
 
@@ -404,4 +414,3 @@ Contributions are most welcome! Please read and adhere to the [contribution guid
 
 To the extent possible under law, esteves-esta has waived all copyright and
 related or neighboring rights to this work.
-- [KeyboardTester.click Typing Test](https://keyboardtester.click/keyboard_typing_test.php) - Free typing speed test (WPM, accuracy, multiple durations). Companion tools on same site: keyboard tester, key repeat rate, NKRO check.
