@@ -98,12 +98,12 @@ Contains: **Lessons | Writer | Lessons | Games | Flash Cards **.
 ---
 
 **[Keytopia](https://keytopia.org/) [ FREE ]**
-A touch typing platform that pairs a staged lesson curriculum with gamified practice. Lessons run from home row through numbers, symbols and punctuation, and adaptive drills build exercises around the keys you miss most often. Results are broken down into WPM, raw WPM, accuracy and consistency over time. There is also an educator side with classrooms, assignments, progress reports and certificates.
+Free touch-typing platform that pairs a full curriculum with competitive practice and school tools. Lessons include **3D finger-placement visualization** from home row through numbers and symbols; an **adaptive practice engine** builds drills around your weakest keys. Advanced analytics go beyond WPM: keyboard heatmaps, per-key speed, bigram timing, finger-efficiency radar, consistency and rhythm scores, speed distribution, and full test replay. Compete in **2D and 3D multiplayer car races**, tournaments, challenges, and leaderboards; earn badges, levels, and verifiable Bronze–Diamond certifications. Educators get classrooms, assignments, live progress, grading, and certificates.
 
 Languages available: 40 languages including ENG | ESP | FRA | DEU | POR | ITA | NLD | POL | TUR | RUS | UKR | JPN | KOR | HIN | ARA.
-Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option (25 layouts, including QWERTY, AZERTY, QWERTZ, Colemak, Colemak-DH, Dvorak, Engram, Halmak and JCUKEN).
+Keyboard Settings: Show/Hide Keyboard | Keyboard Layout Option (25+ layouts, including QWERTY, AZERTY, QWERTZ, Colemak, Colemak-DH, Dvorak, Engram, Halmak and JCUKEN).
 
-Contains: **Lessons | Practice | Speed Test | Games | Multiplayer race | Tournaments | Statistics | Certifications | Classrooms | Keyboard Settings | Theme change (40+) | Badges | Levels | Leaderboards**.
+Contains: **Lessons | 3D Finger Placement | Adaptive Practice | Speed Test | Games | 2D/3D Races | Tournaments | Statistics (Heatmaps, Bigrams, Finger Efficiency, Consistency, Replay) | Certifications | Classrooms | Friends | Challenges | Badges | Levels | Leaderboards | Keyboard Settings | Theme change (40+)**.
 
 ---
 
