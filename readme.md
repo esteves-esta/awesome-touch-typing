@@ -404,3 +404,4 @@ Contributions are most welcome! Please read and adhere to the [contribution guid
 
 To the extent possible under law, esteves-esta has waived all copyright and
 related or neighboring rights to this work.
+- [KeyboardTester.click Typing Test](https://keyboardtester.click/keyboard_typing_test.php) - Free typing speed test (WPM, accuracy, multiple durations). Companion tools on same site: keyboard tester, key repeat rate, NKRO check.
