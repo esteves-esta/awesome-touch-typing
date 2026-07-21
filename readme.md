@@ -32,7 +32,6 @@
 - [Practicing](#practicing)
   - [Games](#games)
   - [Typing Test](#typing-test)
-  - [Typing Code](#typing-code)
 - [Inspired by](#inspired-by)
 - [Contribute](#contribute)
 - [License](#license)
@@ -148,8 +147,8 @@ A touch typing platform focused on learning to type faster and more accurately o
 - English
 
 #### Features
-- Keyboard Layout(AZERTY | QWERTY).
--Lessons
+- Keyboard Layout(AZERTY | QWERTY)
+- Lessons
 - Practice
 - Speed Test
 - Statistics
@@ -240,7 +239,7 @@ TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in yo
 
 
 **[Typing Land](https://typingland.higopage.com/index.html) [ PAID ]**
-TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in your browser or you can download the software version for Windows, Mac OS and Linux. TIPP10 features a clear user interface and various settings and custom lessons.
+Learn how to type through 40 kinds of mini-games
 
 #### Available in
 - App Store 
@@ -270,7 +269,7 @@ The game allows you to practice with random words that grow in difficulty.
 
 ---
 
-**[TYPR - typing races](http://app.typrx.com/#HomePlace:) [ FREE ]**
+**[TYPR - typing races](https://www.typrx.com/) [ FREE ]**
 The game allows you to practice alone or to compete in a race with a set of different quotes. You can also compete in a private race. There is a ranking and a Hall of Fame and you can submit quotes.
 
 #### Features
@@ -379,10 +378,9 @@ The roguelite horde survival game that makes typing great again! Immerse yoursel
 **[The Chef's Shift](https://store.steampowered.com/app/2390230/The_Chefs_Shift/) [ PAID ]**
 The Chef’s Shift is a fast-paced typing game in a restaurant setting, where you’ll both cook & serve food to hungry customers, all done by TYPING. 
 
-[FREE DEMO](https://alijaya.itch.io/the-chefs-shift)
-
 #### Available in 
 - STEAM
+- [itch.io demo](https://alijaya.itch.io/the-chefs-shift)
 
 #### Features
 - Settings: Change difficulty | Volume
@@ -527,13 +525,9 @@ Test your typing online by practicing on your favorite literature. Choose a book
 - Show Mistypes 
 - Auto Scroll
 
+----
 
----
-
-
-### Typing Code
-
-**[typing.io](https://typing.io/) [ FREEMIUM]**
+**[typing.io](https://typing.io/) [ FREEMIUM ]**
 In the free version it has lessons with open source code that allow you to practice real code in different programing languages. In the paid version you can make a custom practice, change color and have keyboard and hand settings and statistics.
 
 #### Features
