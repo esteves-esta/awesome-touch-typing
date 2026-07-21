@@ -11,18 +11,14 @@
 - I started this list mostly because I started looking for website with more customization features, (didn't like that finger position could not be hidden or the lack of theme customization) that is why this list is different than most awesome-lists that just have name and description, just wanted to share so site with more settings to other people that enjoy typing XD
 - I do check the links before adding but I don't keep checking so some links might be broken since they have been added so beware and proceed with caution.
   - If I find a broken link or someone finds a broken link and warns me I will remove it from the list.
-- If you want to add your site or a site you find useful to the list just open a PR following the format below and keep the list on alphabetical order :
-   ```
-   #### [name of site](link) [FREE/FREMIUN/PREMIUN] Description 
-   ##### Languages 
-    - (More than 10 languages just put various laguages)
-   ##### Features
-    - list 
-   ##### Platforms supported (if relevant) 
-   - list
-   ##### Available in  (if relevant) 
-    - (More than 10 just put various stores) 
-   ```
+
+---
+
+## Contribute
+
+Contributions are most welcome! Please read and adhere to the [contribution guidelines](contributing.md) first.
+
+---
 
 ## Contents
 
@@ -33,16 +29,13 @@
   - [Games](#games)
   - [Typing Test](#typing-test)
 - [Inspired by](#inspired-by)
-- [Contribute](#contribute)
 - [License](#license)
 
-
+---
 
 ## Learning
 
 ### Online
-
-
 
 #### [Keybr](https://www.keybr.com/) [ FREE ]
 A website that generates typings lessons matching your skills and putting emphasis on letter you have difficulty. It show the key that is being used in the lesson, and has good settings.
@@ -541,16 +534,11 @@ In the free version it has lessons with open source code that allow you to pract
 Inspire by the **Awesome List** here on github and by the article [Teach yourself Touch Typing with Free Tools](https://www.labnol.org/internet/teach-yourself-touch-typing-with-free-tools/28849/) by Amit Agarwal. 
 
 
-
-## Contribute
-
-Contributions are most welcome! Please read and adhere to the [contribution guidelines](contributing.md) first.
-
-#### [⬆ back to top](#awesome-touch-typing)
-
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, esteves-esta has waived all copyright and
 related or neighboring rights to this work.
+
+#### [⬆ back to top](#awesome-touch-typing)
