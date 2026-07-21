@@ -1,7 +1,7 @@
-# Awesome Touch Typing
+# List of Touch Typing Resources
 
 
-> An awesome & curated list of the best applications for learning and practicing touch typing.
+> An list of applications for learning and practicing touch typing.
 
 
 ![gif of touch typing](https://github.com/esteves-esta/awesome-touch-typing/blob/master/touchtyping.gif)
