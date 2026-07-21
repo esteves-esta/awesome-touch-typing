@@ -5,11 +5,12 @@
 
 
 ![gif of touch typing](https://github.com/esteves-esta/awesome-touch-typing/blob/master/touchtyping.gif)
-> [gif above is from the site typing.com)(https://www.typing.com/)
+> [gif above is from the site typing.com](https://www.typing.com/)
 
 ## Important:
+- I started this list mostly because I started looking for website with more customization features, (didn't like that finger position could not be hidden or the lack of theme customization) that is why this list is different than most awesome-lists that just have name and description, just wanted to share so site with more settings to other people that enjoy typing XD
 - I do check the links before adding but I don't keep checking so some links might be broken since they have been added so beware and proceed with caution.
-  - If I find a broken link or someone finds a broken link I will remove it from the list.
+  - If I find a broken link or someone finds a broken link and warns me I will remove it from the list.
 - If you want to add your site or a site you find useful to the list just open a PR following the format below and keep the list on alphabetical order :
    ```
    [name of site] [FREE/FREMIUN/PREMIUN] Description 
@@ -22,8 +23,6 @@
    #### Available in  (if relevant) 
     - (More than 10 just put various stores) 
    ```
-
-
 
 ## Contents
 
@@ -198,11 +197,11 @@ A simple website that contains 15 lessons each with 10 steps focusing in differe
 
 ---
 
-
-**[Typey Type](https://didoesdigital.com/typey-type/) [ FREE ][ STENOGRAPHY ]**
-Typey Type for Stenographers is a free typing app designed to help steno students practise and master stenography.
+**[Typey Type](https://didoesdigital.com/typey-type/) [ FREE ]**
+Typey Type for Stenographers is a free typing app designed to help steno students practise and master stenography (the process of writing shorthand).
 
 #### Features
+- STENOGRAPHY
 - Lessons 
 - Writer 
 - Games
@@ -263,7 +262,7 @@ TIPP10 is a free 10-finger touch typing tutor. You can use TIPP10 directly in yo
 
 ### Games
 
-**[ZTYPE](https://zty.pe/) [ FREE | Shooter ]**
+**[ZTYPE](https://zty.pe/) [ FREE ]**
 The game allows you to practice with random words that grow in difficulty.
 
 #### Features
@@ -271,7 +270,7 @@ The game allows you to practice with random words that grow in difficulty.
 
 ---
 
-**[TYPR - typing races](http://app.typrx.com/#HomePlace:) [ FREE | race ]**
+**[TYPR - typing races](http://app.typrx.com/#HomePlace:) [ FREE ]**
 The game allows you to practice alone or to compete in a race with a set of different quotes. You can also compete in a private race. There is a ranking and a Hall of Fame and you can submit quotes.
 
 #### Features
@@ -407,7 +406,7 @@ This websites has typing test in multiple languages of 1 minute with random word
 
 ---
 
-[KeyboardTester](https://keyboardtester.click) [ FREE ]
+**[KeyboardTester](https://keyboardtester.click) [ FREE ]**
 KeyboardTester is a typing speed test (WPM, accuracy, multiple durations). Companion tools on same site: keyboard tester, key repeat rate, NKRO check.
 
 #### Features
