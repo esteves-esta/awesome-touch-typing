@@ -5,7 +5,7 @@
 
 
 ![gif of touch typing](https://github.com/esteves-esta/awesome-touch-typing/blob/master/touchtyping.gif)
-
+> [gif above is from the site typing.com)(https://www.typing.com/)
 
 ## Important:
 - I do check the links before adding but I don't keep checking so some links might be broken since they have been added so beware and proceed with caution.
