@@ -6,14 +6,19 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+If you want to add your site or a site you find useful to the list just open a pull request and ensure your pull request adheres to the following format:
+ 
+ ```
+ #### [name of site](link) [FREE/FREMIUN/PREMIUN] Description 
+ ##### Languages 
+  - (More than 10 languages just put various laguages)
+ ##### Features
+  - list 
+ ##### Platforms supported (if relevant) 
+ - list
+ ##### Available in  (if relevant) 
+  - (More than 10 just put various stores) 
+ ```
 
 ## Updating your PR
 
